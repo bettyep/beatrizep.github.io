@@ -21,7 +21,7 @@ url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for yo
 twitter_username: 'jamigibbs'
 github_username: 'jamigibbs'
 medium_username: 'blog.jamigibbs.com'
-theme: jekyll-theme-phantom-minimalist
+theme: jekyll-theme-phantom
 
 # Build settings
 markdown: kramdown
